@@ -16,3 +16,8 @@ First Discord Bot
 4. Replace where it says replace in the url in step 2 and then copy and paste that url into your browser.
 5. It will give you a list of servers you have the ability to add the bot too, select one and then authorize it.
 
+
+
+# Documentation Help
+https://discord.js.org/
+https://discordjs.guide/
